@@ -157,7 +157,7 @@ input, select, textarea {
 	}
 
 	body, input, select, textarea {
-		font-family: "Source Sans Pro", Helvetica, sans-serif;
+		font-family: Georgia, serif;
 		font-size: 1rem;
 		font-weight: 300;
 		line-height: 1.65;
@@ -204,8 +204,9 @@ input, select, textarea {
 		}
 
 	h1 {
-		font-size: 3.5rem;
+		font-size: 6rem;
 		line-height: 1.2;
+		text-decoration: overline underline;
 	}
 
 	h2 {
@@ -227,6 +228,12 @@ input, select, textarea {
 	h6 {
 		font-size: 0.7rem;
 	}
+	
+	h3link {
+		font-size: 1.5rem;
+		text-decoration: underline;
+	}
+	
 
 	sub {
 		font-size: 0.8rem;
@@ -298,7 +305,7 @@ input, select, textarea {
 		}
 
 		h1 {
-			font-size: 2.5rem;
+			font-size: 4rem;
 		}
 
 		h2 {
@@ -8538,7 +8545,7 @@ input, select, textarea {
 		}
 
 		#wrapper > .color2 {
-			background-color: #db8992;
+			background-color: #8b0000;
 		}
 
 		#wrapper > .color3 {
